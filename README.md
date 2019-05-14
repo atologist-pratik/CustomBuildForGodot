@@ -53,11 +53,11 @@ Using above step i manage to compile custom module for iOS that include share op
 
 Image 1:
 
-![Image1](https://imgur.com/dQH1SCp "Share Button")
+[Image1](https://imgur.com/dQH1SCp)
 
 Image 2:
 
-![Image2](https://imgur.com/E74PX58 "Share Popup")
+[Image2](https://imgur.com/E74PX58)
 
 Unfortunately is i set orientation to portrit only application is crashed due oreintation issue.
 
