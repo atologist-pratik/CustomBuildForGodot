@@ -59,5 +59,7 @@ Image 2:
 
 [Image2](https://imgur.com/E74PX58)
 
-Unfortunately is i set orientation to portrit only application is crashed due oreintation issue.
+**NOTE:-** When you run your project in `Portrait` and  you face crash. go to project setting `setting>General>Display>Window` in right side `Handheld/Orientation` is set to `landscape`. change to  `portrait` mode. Export again and run your project. :)
+
+
 
