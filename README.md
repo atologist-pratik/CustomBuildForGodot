@@ -44,7 +44,20 @@ will give you **libgodot.iphone.debug.fat.a** in `godot/bin` folder.
 
 
 
+# Share moduel in iOS.
+Using above step i manage to compile custom module for iOS that include share options.
 
+1. I'm using this [repo](https://github.com/Shin-NiL/Godot-Share) to add share module in godot
+2. Copy share folder in `godot/modules/` folder.
+3. repeate above step from Step 5 and your can have result like below.
 
+Image 1:
 
+![alt tag](https://imgur.com/dQH1SCp "Share Button")
+
+Image 2:
+
+![alt tag](https://imgur.com/E74PX58 "Share Popup")
+
+Unfortunately is i set orientation to portrit only application is crashed due oreintation issue.
 
